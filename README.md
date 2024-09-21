@@ -30,3 +30,9 @@ See folder [SQLQueries](https://github.com/gitfrid/CzechFOI-ByAge/blob/main/SQLQ
 
 The Phyton scripts analyse and visualise these csv data, and saves the plot result as interactive html files.
 [Phyton Scripts](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Py%20Scripts)
+
+Phyton 3.12.5 to plot the CSV data: 
+https://www.python.org/downloads/
+
+Visual Studio Code 1.92.2 to edit and run the phyton script (optional)
+https://code.visualstudio.com/download
