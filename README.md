@@ -8,9 +8,19 @@ Requires a certain IT affinity, but is simpler, faster and more flexible than us
 The resulting 3D diagrams are interactive HTML files that can be zoomed and rotated - more analyses will follow. 
 <br>You can download them from the [Plot Results Folder](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Plot%20Results)
 
-Example of an interactive 3D plot of the Czech FOI data:
+<br>**Example of an interactive 3D plot of the Czech FOI data:**
+<br>
+_________________________________________
+<br>
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/34c018493dfc44892c4002d602790e891eafd7f8/Plot%20Results/AH)%203d%20surface%20PVT_CUM_NUM_UVX_D/AH)%203d%20surface%20PVT_CUM_NUM_UVX_D.png" width="600" height="auto">
+<br>
 
-Example 3D plot
+<br>**Example of an interactive 2D plot**
+<br>
+_________________________________________
+<br>
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/1438e171e38ca18246cbe914efbf8c931cceed6d/Plot%20Results/AE)%202D%203Axis%201Derivat%20norm%20PVT_CUM_NUM_D_NORM%20PVT_CUM_NUM/AE)%202D%203Axis%201Derivat%20norm%20PVT_CUM_NUM_D_NORM%20PVT_CUM_NUM.png" width="600" height="auto">
+<br>
 
 The original Czech FOI data, obtained through a Freedom of Information request, 
 <br>The file Vesely_106_202403141131.CSV can be downloaded at [FOI Link](https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz)
