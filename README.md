@@ -31,8 +31,12 @@ See folder [SQLQueries](https://github.com/gitfrid/CzechFOI-ByAge/blob/main/SQLQ
 The Phyton scripts analyse and visualise these csv data, and saves the plot result as interactive html files.
 [Phyton Scripts](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Py%20Scripts)
 
-Phyton 3.12.5 to plot the CSV data: 
-https://www.python.org/downloads/
 
-Visual Studio Code 1.92.2 to edit and run the phyton script (optional)
-https://code.visualstudio.com/download
+Software Downloads:
+
+[DB Browser for SQLite" version 3.13.0](https://sqlitebrowser.org/dl/) to create a Database, run SQL querys and csv export.
+
+[Phyton 3.12.5](https://www.python.org/downloads/) to execute the pyton scripts ans plot the CSV data. 
+
+[Visual Studio Code 1.92.2](https://code.visualstudio.com/download) to edit and run the phyton script.
+
