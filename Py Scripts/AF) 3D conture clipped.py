@@ -7,10 +7,10 @@ import shutil
 
 def main():
     
-    plot_name = "PVT_CUM_NUM_VX_D_NORM"
+    plot_name = "PVT_NUM_UVX_D"
 
     # Load the CSV data
-    data = pd.read_csv(r"C:\CzechFOI-BYAGE\TERRA\PVT_CUM_NUM_VX_D_NORM.csv")
+    data = pd.read_csv(r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_UVX_D.csv")
 
     # Extract the columns
     days = data['DAYS_20200101']
@@ -69,7 +69,7 @@ def main():
         )
 
         fig.write_html(f"{full_plotfile_name}.html")
-        print(f"Plot has been saved to HTML file.")
+        print(f"Plot has been saved to HTML file {full_plotfile_name}.")
 
 
 # Initialize the "Plot Results" directory and copy this PyScript into it

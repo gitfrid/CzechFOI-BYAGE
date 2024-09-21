@@ -6,7 +6,7 @@ import shutil
 
 def main():
     
-    plot_name = "PVT_NUM_D PVT_CUM_NUM"
+    plot_name = "PVT_NUM_D_NORM PVT_CUM_NUM"
 
     # Funktion zur Anwendung des Savitzky-Golay-Filters
     def apply_savgol_filter(data, window_size, poly_order):
@@ -14,8 +14,8 @@ def main():
 
     # Liste der CSV-Dateipfade für die primäre y-Achse
     csv_files_primary = [
-        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_UVX_D.csv",
-        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_VX_D.csv"
+        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_UVX_D_NORM.csv",
+        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_VX_D_NORM.csv"
     ]
 
     # Liste der CSV-Dateipfade für die sekundäre y-Achse

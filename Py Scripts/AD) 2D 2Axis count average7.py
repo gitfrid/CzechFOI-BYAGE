@@ -5,7 +5,7 @@ import shutil
 
 def main():
     
-    plot_name = "PVT_NUM_D PVT_NUM_D_NORM"
+    plot_name = "PVT_NUM_D PVT_NUM_D_NORM2"
 
     # Funktion zur Berechnung des gleitenden Durchschnitts
     def moving_average(data, window_size):
@@ -14,13 +14,13 @@ def main():
     # Liste der CSV-Dateipfade für die primäre y-Achse
     csv_files_primary = [
         r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_UVX_D.csv",
-        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_VX_D.csv"
+        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_D.csv"
     ]
 
     # Liste der CSV-Dateipfade für die sekundäre y-Achse
     csv_files_secondary = [
         r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_UVX_D_NORM.csv",
-        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_VX_D_NORM.csv"
+        r"C:\CzechFOI-BYAGE\TERRA\PVT_NUM_D_NORM.csv"
     ]
 
     # Alle CSV-Dateien in eine Liste von DataFrames einlesen
