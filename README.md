@@ -30,7 +30,7 @@ The [Phyton Scripts](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Py%20Sc
 <br>[Phyton 3.12.5](https://www.python.org/downloads/) to execute the pyton scripts ans plot the CSV data. 
 <br>[Visual Studio Code 1.92.2](https://code.visualstudio.com/download) to edit and run the phyton script.
 
-<br>**Disclaimer: The result has not been checked for any errors!
+<br>**Disclaimer: The result has not been checked for errors!
 <br>Neither methodological nor technical, no checks or cleansing of the raw data were carried out.** 
 
 
