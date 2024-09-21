@@ -8,7 +8,14 @@ Requires a certain IT affinity, but is simpler, faster and more flexible than us
 The resulting 3D diagrams are interactive HTML files that can be zoomed and rotated - more analyses will follow. 
 <br>You can download them from the [Plot Results Folder](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Plot%20Results)
 
-<br>**Example of an interactive 3D plot of the Czech FOI data:**
+<br>**Example of an interactive 3D mesh plot of the Czech FOI data:**
+<br>
+_________________________________________
+<br>
+<img src=https://github.com/gitfrid/CzechFOI-ByAge/blob/37b8e8bbc23a9949b6cb0ed07e2ecf2f689873fd/Plot%20Results/AH)%203D%20Surface%20mesh%20AGE_2023_DAYS_D_NUM_D/AH)%203D%20Surface%20mesh%20AGE_2023_DAYS_D_NUM_D.png width="600" height="auto">
+<br>
+
+<br>**Example of an interactive 3D plot**
 <br>
 _________________________________________
 <br>
