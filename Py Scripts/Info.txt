@@ -1,0 +1,16 @@
+These scripts create the plot results:
+
+Each script contains the variable plot_name, 
+which is part of the name of the HTML plot file.
+
+Each script has a function that creates a folder for the plot Output,
+and copies the script into this folder.
+
+Since a script can be executed with different parameters or CSV files, 
+these parameters are documented in the script along with the HTML plot files.
+
+To use the scripts with modules, they must first be imported in the Python console.
+
+
+Useful note on the use of plotly:
+https://community.plotly.com/t/3d-surface-plotly-hardest-library-for-python-from-user-pov-spent-3-hours-on-trying-to-understand-3d-surface-no-progress/7849/4

@@ -1,0 +1,5 @@
+CSV Files exported from the views of the SQLite Database File czech.db 
+The viewa were created by the SQL query "..\SQLQueries\All SQL Queries.sql"
+
+
+
