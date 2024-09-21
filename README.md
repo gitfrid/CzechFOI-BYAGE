@@ -8,7 +8,7 @@ Requires a certain IT affinity, but is simpler, faster and more flexible than us
 The resulting 3D diagrams are interactive HTML files that can be zoomed and rotated. 
 <br>You can download them from the [Plot Results Folder](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Plot%20Results)
 
-Example of an interactive 3D plot of the Czech FOI data - all VX and UNVX:
+Example of an interactive 3D plot of the Czech FOI data:
 
 Example 3D plot
 
