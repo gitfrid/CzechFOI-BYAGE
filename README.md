@@ -15,8 +15,7 @@ Requires a certain IT affinity, but is simpler, faster and more flexible than us
 The original Czech FOI data, obtained through a Freedom of Information request, 
 can be downloaded at [FOI Link](https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz)
 
-To import view and edit the data in a SQlite database, you can use "DB Browser for SQLite" version 3.13.0, 
-<br>which you can download here [DB Browser for SQLite](https://sqlitebrowser.org/dl/).
+To import view and edit the data in a SQlite database, you can use "DB Browser for SQLite".
 
 The data in the SQLite database (CZFOI.db) were imported from the file Vesely_106_202403141131.CSV. 
 
