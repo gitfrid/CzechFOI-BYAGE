@@ -6,11 +6,11 @@ import shutil
 
 def main():
     
-    plot_name =  "PVT_CUM_NUM_UVX_div_PVT_NUM_UVX_D"
+    plot_name =  "PVT_CUM_NUM_D_NORM"
 
         
     # Load the CSV data
-    data = pd.read_csv(r"C:\CzechFOI-BYAGE\TERRA\PVT_CUM_NUM_UVX_div_PVT_NUM_UVX_D.csv")
+    data = pd.read_csv(r"C:\CzechFOI-BYAGE\TERRA\PVT_CUM_NUM_D_NORM.csv")
 
     # Initialize the directory and script copy
     full_plotfile_name = init_function(plot_name)
