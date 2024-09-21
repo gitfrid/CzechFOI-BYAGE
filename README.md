@@ -5,7 +5,7 @@
 A solution that makes it easy to analyse, calculate and visualise FOI data in many ways.  
 Requires a certain IT affinity, but is simpler, faster and more flexible than using a spreadsheet.
 
-The resulting 3D diagrams are interactive HTML files that can be zoomed and rotated. 
+The resulting 3D diagrams are interactive HTML files that can be zoomed and rotated - more analyses will follow. 
 <br>You can download them from the [Plot Results Folder](https://github.com/gitfrid/CzechFOI-ByAge/tree/main/Plot%20Results)
 
 Example of an interactive 3D plot of the Czech FOI data:
