@@ -20,7 +20,7 @@ def main():
     full_plotfile_name = init_function(plot_name)
     
     fig.write_html(f"{full_plotfile_name}.html")
-    print(f"Plot has been saved to HTML file.")
+    print(f"Plot has been saved to HTML file {full_plotfile_name}")
 
 
 # Initialize the "Plot Results" directory and copy this PyScript into it
