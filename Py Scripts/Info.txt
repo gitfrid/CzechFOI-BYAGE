@@ -14,3 +14,5 @@ To use the scripts with modules, they must first be imported in the Python conso
 
 Useful note on the use of plotly:
 https://community.plotly.com/t/3d-surface-plotly-hardest-library-for-python-from-user-pov-spent-3-hours-on-trying-to-understand-3d-surface-no-progress/7849/4
+
+https://plotly.com/python/plotly-express/
