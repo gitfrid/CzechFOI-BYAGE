@@ -1,0 +1,1 @@
+age groups can be shown or hidden by clicking on the legend
