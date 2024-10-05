@@ -33,7 +33,7 @@ _________________________________________
 <br>
 _________________________________________
 <br>
-<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/5cace16ef4ce7db3783468ca753fed47f0b65fd6/Plot%20Results/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20PVT_CUM_NUM_VX%20PVT_CUM_NUM_VX_D%20WND_7/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20PVT_CUM_NUM_VX%20PVT_CUM_NUM_VX_D%20WND_7_75-79.png" width="600" height="auto">
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/main/Plot%20Results/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20mirror%20PVT_CUM_NUM_VX_UVX%20PVT_CUM_NUM_VX_UVX_D%20WND_7/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20mirror%20PVT_CUM_NUM_VX_UVX%20PVT_CUM_NUM_VX_UVX_D%20WND_7_75-79.png" width="600" height="auto">
 <br>
 _________________________________________
 <br>
