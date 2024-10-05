@@ -28,7 +28,15 @@ _________________________________________
 <br>
 <img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/1438e171e38ca18246cbe914efbf8c931cceed6d/Plot%20Results/AE)%202D%203Axis%201Derivat%20norm%20PVT_CUM_NUM_D_NORM%20PVT_CUM_NUM/AE)%202D%203Axis%201Derivat%20norm%20PVT_CUM_NUM_D_NORM%20PVT_CUM_NUM.png" width="600" height="auto">
 <br>
+_________________________________________
+<br>
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/5cace16ef4ce7db3783468ca753fed47f0b65fd6/Plot%20Results/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20PVT_CUM_NUM_VX%20PVT_CUM_NUM_VX_D%20WND_7/AQ)%20PVT%20D%20div%20mean%20population%20moving%20window%20PVT_CUM_NUM_VX%20PVT_CUM_NUM_VX_D%20WND_7_75-79.png" width="600" height="auto">
+<br>
 
+<br>**Example of an interactive Heatmap plot**
+<br>
+_________________________________________
+<br>
 The original Czech FOI data, obtained through a Freedom of Information request, 
 <br>The file Vesely_106_202403141131.CSV can be downloaded at [FOI Link](https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz)
 
