@@ -37,6 +37,18 @@ _________________________________________
 <br>
 _________________________________________
 <br>
+
+<br>**Example of decay time precalculated**
+<br>
+_________________________________________
+<br>
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/main/Plot%20Results/AN)%202D%20decay%20time%20%20pre-calculated%20PVT_POP_TOTAL_MINUS_D/AN)%202D%20decay%20time%20%20pre-calculated%20PVT_POP_TOTAL_MINUS_D.png" width="600" height="auto">
+<br>
+<img src="https://github.com/gitfrid/CzechFOI-ByAge/blob/main/Plot%20Results/AP)%202D%20decay%20time%20%20pre-calculated%20all%20PVT_POP_TOTAL%20PVT_NUM_D%20TDT_7/AP)%202D%20decay%20time%20%20pre-calculated%20all%20PVT_POP_TOTAL%20PVT_NUM_D%20TDT_7%20AG-74-79.png" width="600" height="auto">
+<br>
+_________________________________________
+<br>
+
 The original Czech FOI data, obtained through a Freedom of Information request, 
 <br>The file Vesely_106_202403141131.CSV can be downloaded at [FOI Link](https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz)
 
